@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi, I'm Hleb 👋
 
-<!--
-**hlebkanonik/hlebkanonik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate DevOps engineer with a particular focus on AWS Cloud, Containers and DevOps magic stuff.
 
-Here are some ideas to get you started:
+- ☁️ Cloud: AWS
+- 🧊 Containers: Kubernetes, Docker
+- 🧙‍♂️ DevOps stuff: Ansible, Terraform, Vagrant, Helm, Jenkins, Agro CD and etc.
+- 📈 Monitoring: Prometheus, Grafana
+- 💻 Prog. Lang.: Bash (Scripting), Groovy (Jenkins), Go Template (Helm Charts).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+Cyberglamdring/Cyberglamdring is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
