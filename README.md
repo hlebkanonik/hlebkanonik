@@ -16,6 +16,9 @@ Results-driven DevOps Engineer with 4 years of experience in cloud platforms, co
 * Strong problem-solving and troubleshooting skills.
 * Excellent communication and collaboration abilities.
 
+## Certificates
+* [Certified Kubernetes Administrator (CKA)](https://training.linuxfoundation.org/certification/verify/). Cert ID: LF-frf24jhr7z
+
 ## Toolset
 <img height="40" width="40" src="https://cdn.simpleicons.org/amazonaws/FF9900" /> <img height="40" width="40" src="https://cdn.simpleicons.org/googlecloud" />  <img height="40" width="40" src="https://cdn.simpleicons.org/linux" /> <img height="40" width="40" src="https://cdn.simpleicons.org/kubernetes" /> <img height="40" width="40" src="https://cdn.simpleicons.org/docker" /> <img height="40" width="40" src="https://cdn.simpleicons.org/terraform" /> <img height="40" width="40" src="https://cdn.simpleicons.org/ansible" /> <img height="40" width="40" src="https://cdn.simpleicons.org/vagrant" />  <img height="40" width="40" src="https://cdn.simpleicons.org/packer" />  <img height="40" width="40" src="https://cdn.simpleicons.org/github" /> <img height="40" width="40" src="https://cdn.simpleicons.org/gitlab" /> <img height="40" width="40" src="https://cdn.simpleicons.org/jenkins" /> <img height="40" width="40" src="https://cdn.simpleicons.org/githubactions" /> <img height="40" width="40" src="https://cdn.simpleicons.org/gnubash" /> <img height="40" width="40" src="https://cdn.simpleicons.org/python" /> <img height="40" width="40" src="https://cdn.simpleicons.org/apachegroovy" /> <img height="40" width="40" src="https://cdn.simpleicons.org/goland" /> <img height="40" width="40" src="https://cdn.simpleicons.org/awslambda" /> <img height="40" width="40" src="https://cdn.simpleicons.org/prometheus" /> <img height="40" width="40" src="https://cdn.simpleicons.org/grafana" /> <img height="40" width="40" src="https://cdn.simpleicons.org/elastic" /> 
 <!---
