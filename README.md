@@ -12,7 +12,7 @@ Containerization: Proficient in Docker and Kubernetes for container orchestratio
 * **Version Control:** Expertise in Git-based workflows using GitHub, GitLab, and Bitbucket, including branching strategies, pull request processes, and code review practices.
 CI/CD Pipelines: Hands-on experience with Continuous Integration and Continuous Deployment (CI/CD) tools such as Jenkins, Travis CI, and GitHub Actions, facilitating automated testing, build, and deployment processes.
 * **Infrastructure Automation:** Skilled in using infrastructure as code (IaC) tools like Terraform and Ansible for automating the provisioning and management of infrastructure.
-* Linux/Unix Environments: Proficient in working with Linux/Unix systems, with strong command of shell scripting for automating routine tasks and system administration.
+* **Linux/Unix Environments:** Proficient in working with Linux/Unix systems, with strong command of shell scripting for automating routine tasks and system administration.
 * **Scripting Languages:** Knowledgeable in Bash, Python, and familiar with Go and Groovy for scripting and automation tasks.
 * **Monitoring and Logging:** Experienced in implementing and maintaining monitoring and log aggregation solutions using Prometheus, Grafana, and the ELK stack (Elasticsearch, Logstash, Kibana).
 * **Collaboration & Communication**: Excellent communication skills with a proven ability to work collaboratively in cross-functional teams, ensuring seamless integration of DevOps practices across development and operations.
