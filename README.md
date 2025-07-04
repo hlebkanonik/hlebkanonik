@@ -8,7 +8,7 @@
 
 * ☁️ **Cloud Platforms:** Extensive experience with AWS, and GCP; skilled in cloud resource provisioning, scaling, networking, and cost optimization.
 * 📦 **Containerization & Orchestration:** Proficient in Docker and Kubernetes; hands-on experience deploying, managing, and scaling containerized applications in production environments.
-* ⚙️ **Infrastructure Automation**: Versed in multiple IaC tools — especially Terraform and Ansible — to automate provisioning, enforce configuration consistency, and streamline infrastructure lifecycle management
+* ⚙️ **Infrastructure Automation**: Versed in multiple IaC tools (especially Terraform and Ansible) to automate provisioning, enforce configuration consistency, and streamline infrastructure lifecycle management
 * 🚀 **CI/CD Pipelines:** Deep understanding of CI/CD methodologies; implemented pipelines with **Jenkins**, **GitLab CI**, and **GitHub Actions** to support automated testing, builds, deployments, and release management.
 * 📊 **Monitoring & Logging:** Experience setting up observability stacks using **Prometheus** and **Grafana**; improved uptime and performance through proactive monitoring and alerting.
 * 🪄 **Scripting & Automation:** Strong scripting skills in **Bash** and **Python**, with familiarity in **Go** and **Groovy** for automation, tooling, and infrastructure workflows.
