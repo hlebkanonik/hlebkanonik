@@ -94,8 +94,9 @@ hlebkanonik@devops ~
 Role:                 Senior DevOps Engineer
 Experience:           8 years
 Stack:                AWS, GCP, Docker, Kubernetes, Terraform, Ansible
-CI/CD:                Jenkins, GitLab CI, GitHub Actions
-Currently exploring:  Claude Code, MCP, agentic workflows
+CI/CD:                GitLab CI, GitHub Actions, Jenkins
+GitOps:               Declarative configs, Git as source of truth, K8s reconciliation
+Working with:         Claude Code, MCP, agentic workflows
 ──────────────────────────────────────────────────
 Public repos:  {stats['repos']:<8} Followers:            {stats['followers']}
 Total stars:   {stats['stars']:<8} Commits (last year):  {stats['commits']}
