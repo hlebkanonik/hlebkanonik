@@ -91,8 +91,8 @@ def render_block(stats):
     return f"""```text
 hlebkanonik@devops ~
 ──────────────────────────────────────────────────
-Role:                Senior DevOps Engineer
-Experience:          8 years
+Role:                 Senior DevOps Engineer
+Experience:           8 years
 Stack:                AWS, GCP, Docker, Kubernetes, Terraform, Ansible
 CI/CD:                Jenkins, GitLab CI, GitHub Actions
 Currently exploring:  Claude Code, MCP, agentic workflows
