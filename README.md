@@ -14,7 +14,7 @@ Working with:         Claude Code, MCP, agentic workflows
 Public repos:  18       Followers:            10
 Total stars:   7        Commits (last year):  320
 ──────────────────────────────────────────────────
-Updated: 2026-08-24 (auto-generated)
+Updated: 2026-08-25 (auto-generated)
 ```
 <!-- STATS:END -->
 
