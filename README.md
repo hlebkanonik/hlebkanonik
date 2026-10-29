@@ -12,9 +12,9 @@ GitOps:               Declarative configs, Git as source of truth, K8s reconcili
 Working with:         Claude Code, MCP, agentic workflows
 ──────────────────────────────────────────────────
 Public repos:  18       Followers:            10
-Total stars:   7        Commits (last year):  302
+Total stars:   7        Commits (last year):  303
 ──────────────────────────────────────────────────
-Updated: 2026-10-28 (auto-generated)
+Updated: 2026-10-29 (auto-generated)
 ```
 <!-- STATS:END -->
 
